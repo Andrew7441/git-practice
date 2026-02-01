@@ -15,4 +15,4 @@ A Repository for practicing Git: branches, merges, rebases, commits, and much mo
 - Practice creating branches and merging
 - Resolve conflicts safely
 - Experiment with rebase, amend, and squash
-- Use stash, reset, and reflog.
+- Use stash, reset, and reflog
